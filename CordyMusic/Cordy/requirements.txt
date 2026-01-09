@@ -1,0 +1,8 @@
+disnake
+disnake-jishaku
+motor
+mafic
+numpy
+requests
+PyNaCl
+disnake[voice]
